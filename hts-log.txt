@@ -1,110 +1,110 @@
 HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 Apr 2023 17:48:12 at https://evelynekitcho.github.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-evelynekitcho.github.io
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://evelynekitcho.github.io/ -O1 "D:\Crack site\evelynekitcho.github.io" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+kksmartcom.comkksmartcom.com
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://evelynekitcho.github.io/ -O1 "D:\Crack site\kksmartcom.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 
 
 Information, Warnings and Errors reported for this mirror:
 
-note:	the hts-log.txt file, and hts-cach evelynekitcho.github.io sensitive information,
-evelynekitcho.github.io
-	such as username/password authentication for web evelynekitcho.github.io project
-evelynekitcho.github.io evelynekitcho.github.io
-	do not share these files/folders if you want the evelynekitcho.github.io main private
-evelynekitcho.github.io
-evelynekitcho.github.io
-evelynekitcho.github.io
-17:48:13	Warning: 	Note: due to https://evelynekitcho.github.io robots.txt rules, links beginning with these path will be forbidden: /*utm_, /*gclid= (see in the options to disable this)
-evelynekitcho.github.io
-17:48:54	Error: 	"Bad Request" (400) at link https://evelynekitcho.github.io/gtm.js?id= (from https://evelynekitcho.github.io/)
-evelynekitcho.github.io
+note:	the hts-log.txt file, and hts-cachkksmartcom.comn sensitive information,
+kksmartcom.com
+	such as username/password authentication for webkksmartcom.comis project
+kksmartcom.comkksmartcom.com
+	do not share these files/folders if you want thekksmartcom.commain private
+kksmartcom.comkksmartcom.com
+kksmartcom.com
+kksmartcom.comkksmartcom.com
+17:48:13	Warning: 	Note: due to https://kksmartcom.comobots.txt rules, links beginning with these path will be forbidden: /*utm_, /*gclid= (see in the options to disable this)
+kksmartcom.comkksmartcom.com
+17:48:54	Error: 	"Bad Request" (400) at link httpkksmartcom.comager.com/gtm.js?id= (from https://evelynekitcho.github.io/)
+kksmartcom.comkksmartcom.com
 17:50:56	Warning: 	Moved Permanently for https://evelynekitcho.github.io/?p=6790
-evelynekitcho.github.io
-17:50:56	Warning: 	File has moved from https://evelynekitcho.github.io p=6790 to https://evelynekitcho.github.io/services
-evelynekitcho.github.io
+kksmartcom.comkksmartcom.com
+17:50:56	Warning: 	File has moved from https://kksmartcom.comp=6790 to https://evelynekitcho.github.io/services
+kksmartcom.comkksmartcom.com
 17:52:11	Warning: 	Moved Permanently for https://evelynekitcho.github.io/?p=63
-evelynekitcho.github.io
-17:52:11	Warning: 	File has moved from https://evelynekitcho.github.io 63 to https://evelynekitcho.github.io/evelynekitcho.github.io
-evelynekitcho.github.io
-17:52:47	Warning: 	Moved Permanently for https:evelynekitcho.github.io/?p=6403evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.comkksmartcom.com
+17:52:11	Warning: 	File has moved from https://phenkksmartcom.com63 to https://evelynekitcho.github.io/projectskksmartcom.com
+kksmartcom.com
+17:52:47	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=6403kksmartcom.com
+kksmartcom.com
 17:52:47	Warning: 	File has moved from https://evelynekitcho.github.io/?p=6403 to https://evelynekitcho.github.io/about-us
-evelynekitcho.github.io
-17:52:49	Warning: 	Moved Permanently for https:evelynekitcho.github.io/?p=3evelynekitcho.github.io
-evelynekitcho.github.io
-17:52:49	Warning: 	File has moved from https://evelynekitcho.github.io/?p=3 to https://evelynekitcho.github.io cookies-policy
-evelynekitcho.github.io
-17:52:49	Warning: 	Moved Permanently for https:evelynekitcho.github.io/?p=7741evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:52:49	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=3kksmartcom.com
+kksmartcom.com
+17:52:49	Warning: 	File has moved from https://evelynekitcho.github.io/?p=3 to https://phekksmartcom.comokies-policy
+kksmartcom.com
+17:52:49	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=7741kksmartcom.com
+kksmartcom.com
 17:52:49	Warning: 	File has moved from https://evelynekitcho.github.io/?p=7741 to https://evelynekitcho.github.io/projects/jocreate-application-for-creating-nft-collections
-evelynekitcho.github.io
-17:54:14	Warning: 	Moved Permanently for https:evelynekitcho.github.io/?p=8021evelynekitcho.github.io
-evelynekitcho.github.io
-17:54:14	Warning: 	File has moved from https://evelynekitcho.github.io/?p=8021 to https://evelynekitcho.github.io/projects/healher-an-app-with-personalized-health-plans
-evelynekitcho.github.io
-17:54:52	Warning: 	Moved Permanently for https:evelynekitcho.github.io/?p=7413evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:54:14	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=8021kksmartcom.com
+kksmartcom.com
+17:54:14	Warning: 	File has moved from https://evelynekitcho.github.io/?p=8021 to https:/kksmartcom.comm/projects/healher-an-app-with-personalized-health-plans
+kksmartcom.com
+17:54:52	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=7413kksmartcom.com
+kksmartcom.com
 17:54:52	Warning: 	File has moved from https://evelynekitcho.github.io/?p=7413 to https://evelynekitcho.github.io/projects/pnswap-token-exchange-platform
-evelynekitcho.github.io
-17:54:52	Warning: 	Moved Permanently for https:evelynekitcho.github.io/?p=7175evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:54:52	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=7175kksmartcom.com
+kksmartcom.com
 17:54:52	Warning: 	File has moved from https://evelynekitcho.github.io/?p=7175 to https://evelynekitcho.github.io/projects/core-developer-the-platform-for-learning-to-program
-evelynekitcho.github.io
-17:54:52	Error: 	"Not Found" (404) at link https://evelynekitcho.github.io/wp-content/evelynekitcho.github.io.video.play.png (from https://evelynekitcho.github.io/wp-content/themes/kksmartcom/css/owl.carousel.css)
-evelynekitcho.github.io
-17:54:52	Warning: 	Moved Permanently for https://evelynekitcho.github.io/?p=5935evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:54:52	Error: 	"Not Found" (404) at link httpkksmartcom.com.com/wp-content/themkksmartcom.coml.video.play.png (from https://evelynekitcho.github.io/wp-content/themes/kksmartcom/css/owl.carousel.css)
+kksmartcom.com
+17:54:52	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=5935kksmartcom.com
+kksmartcom.com
 17:54:52	Warning: 	File has moved from https://evelynekitcho.github.io/?p=5935 to https://evelynekitcho.github.io/projects/punk-panda-swap-stake-and-farm-platform
-evelynekitcho.github.io
-17:54:52	Warning: 	Moved Permanently for https:evelynekitcho.github.io/?p=6793evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:54:52	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=6793kksmartcom.com
+kksmartcom.com
 17:54:52	Warning: 	File has moved from https://evelynekitcho.github.io/?p=6793 to https://evelynekitcho.github.io/projects/assetario-branding-for-the-saas-platform
-evelynekitcho.github.io
-17:54:52	Warning: 	Moved Permanently for https://evelynekitcho.github.io/?p=1276evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:54:52	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=1276kksmartcom.com
+kksmartcom.com
 17:54:52	Warning: 	File has moved from https://evelynekitcho.github.io/?p=1276 to https://evelynekitcho.github.io/projects/airportr
-evelynekitcho.github.io
-17:54:52	Warning: 	Moved Permanently for https:evelynekitcho.github.io/?p=2127evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:54:52	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=2127kksmartcom.com
+kksmartcom.com
 17:54:52	Warning: 	File has moved from https://evelynekitcho.github.io/?p=2127 to https://evelynekitcho.github.io/projects/nouri
-evelynekitcho.github.io
-17:54:53	Warning: 	Moved Permanently for https:evelynekitcho.github.io/?p=941evelynekitcho.github.io
-evelynekitcho.github.io
-17:54:53	Warning: 	File has moved from https://evelynekitcho.github.io/?p=941 to https://evelynekitcho.github.ioprojects/copper-rock
-evelynekitcho.github.io
-17:54:53	Warning: 	Moved Permanently for https://evelynekitcho.github.io/?p=1151evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:54:53	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=941kksmartcom.com
+kksmartcom.com
+17:54:53	Warning: 	File has moved from https://evelynekitcho.github.io/?p=941 to https://pkksmartcom.comprojects/copper-rock
+kksmartcom.com
+17:54:53	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=1151kksmartcom.com
+kksmartcom.com
 17:54:53	Warning: 	File has moved from https://evelynekitcho.github.io/?p=1151 to https://evelynekitcho.github.io/projects/neap-app
-evelynekitcho.github.io
-17:54:53	Warning: 	Moved Permanently for https://evelynekitcho.github.io/?p=1046evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:54:53	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=1046kksmartcom.com
+kksmartcom.com
 17:54:53	Warning: 	File has moved from https://evelynekitcho.github.io/?p=1046 to https://evelynekitcho.github.io/projects/triffic
-evelynekitcho.github.io
-17:54:53	Warning: 	Moved Permanently for https://evelynekitcho.github.io/?p=975evelynekitcho.github.io
-evelynekitcho.github.io
-17:54:53	Warning: 	File has moved from https://evelynekitcho.github.io/?p=975 to https://evelynekitcho.github.ioprojects/learnt
-evelynekitcho.github.io
-17:56:22	Warning: 	Moved Permanently for https://evelynekitcho.github.io/?p=6961evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:54:53	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=975kksmartcom.com
+kksmartcom.com
+17:54:53	Warning: 	File has moved from https://evelynekitcho.github.io/?p=975 to https://pkksmartcom.comprojects/learnt
+kksmartcom.com
+17:56:22	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=6961kksmartcom.com
+kksmartcom.com
 17:56:22	Warning: 	File has moved from https://evelynekitcho.github.io/?p=6961 to https://evelynekitcho.github.io/projects/medicare-digital-doctor-mobile-app
-evelynekitcho.github.io
-17:56:22	Warning: 	Moved Permanently for https://evelynekitcho.github.io/?p=5531evelynekitcho.github.io
-evelynekitcho.github.io
-17:56:22	Warning: 	File has moved from https://evelynekitcho.github.io/?p=5531 to https://evelynekitcho.github.io/projects/eduwerks-app-for-online-education
-evelynekitcho.github.io
-17:56:35	Warning: 	Moved Permanently for https:evelynekitcho.github.io/?p=5606evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:56:22	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=5531kksmartcom.com
+kksmartcom.com
+17:56:22	Warning: 	File has moved from https://evelynekitcho.github.io/?p=5531 to https:/kksmartcom.comm/projects/eduwerks-app-for-online-education
+kksmartcom.com
+17:56:35	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=5606kksmartcom.com
+kksmartcom.com
 17:56:35	Warning: 	File has moved from https://evelynekitcho.github.io/?p=5606 to https://evelynekitcho.github.io/projects/frozeverse-metaverse-vr-game
-evelynekitcho.github.io
-17:56:35	Warning: 	Moved Permanently for https://evelynekitcho.github.io/?p=5238evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:56:35	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=5238kksmartcom.com
+kksmartcom.com
 17:56:35	Warning: 	File has moved from https://evelynekitcho.github.io/?p=5238 to https://evelynekitcho.github.io/projects/webb
-evelynekitcho.github.io
-17:56:35	Warning: 	Moved Permanently for https://evelynekitcho.github.io?p=6269evelynekitcho.github.io
-evelynekitcho.github.io
+kksmartcom.com
+17:56:35	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=6269kksmartcom.com
+kksmartcom.com
 17:56:35	Warning: 	File has moved from https://evelynekitcho.github.io/?p=6269 to https://evelynekitcho.github.io/projects/radar-web3-projects-aggregator
-evelynekitcho.github.io
-17:56:35	Warning: 	Moved Permanently for https://evelynekitcho.github.io/?p=3085evelynekitcho.github.io
+kksmartcom.com
+17:56:35	Warning: 	Moved Permanently for https:kksmartcom.comom/?p=3085kksmartcom.com
 
 17:56:35	Warning: 	File has moved from https://evelynekitcho.github.io/?p=3085 to https://evelynekitcho.github.io/projects/space-protocol
 

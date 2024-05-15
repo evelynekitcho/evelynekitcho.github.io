@@ -23,7 +23,7 @@
   content: "";
   width: 62px;
   height: 65px;
-  background: url("https://cdn.evelynekitcho.github.io/wp-content/themes/kksmartcom/img/salut.svg") no-repeat center;
+  background: url("https://cdn.evelynekitcho/wp-content/themes/kksmartcom/img/salut.svg") no-repeat center;
   background-size: contain;
   position: absolute;
   bottom: 56%;
@@ -34,7 +34,7 @@
   content: "";
   width: 252px;
   height: 142px;
-  background: url("https://cdn.evelynekitcho.github.io/wp-content/themes/kksmartcom/img/discovery-arrow.svg") no-repeat center;
+  background: url("https://cdn.evelynekitcho/wp-content/themes/kksmartcom/img/discovery-arrow.svg") no-repeat center;
   background-size: contain;
   position: absolute;
   top: calc(100% + 40px);
@@ -186,7 +186,7 @@
     content: "";
     width: 40px;
     height: 40px;
-    background: url("https://cdn.evelynekitcho.github.io/wp-content/themes/kksmartcom/img/salut.svg") no-repeat center;
+    background: url("https://cdn.evelynekitcho/wp-content/themes/kksmartcom/img/salut.svg") no-repeat center;
     background-size: contain;
     position: absolute;
     top: -30px;
@@ -226,7 +226,7 @@
     content: "";
     width: 134px;
     height: 76px;
-    background: url("https://cdn.evelynekitcho.github.io/wp-content/themes/kksmartcom/img/discovery-arrow-mobile.svg") no-repeat center right;
+    background: url("https://cdn.evelynekitcho/wp-content/themes/kksmartcom/img/discovery-arrow-mobile.svg") no-repeat center right;
     position: absolute;
     bottom: 13px;
     right: 0;
@@ -258,7 +258,7 @@
     content: "";
     width: 36px;
     height: 36px;
-    background: url("https://cdn.evelynekitcho.github.io/wp-content/themes/kksmartcom/img/salut.svg") no-repeat center;
+    background: url("https://cdn.evelynekitcho/wp-content/themes/kksmartcom/img/salut.svg") no-repeat center;
     background-size: contain;
     position: absolute;
     top: -14px;
