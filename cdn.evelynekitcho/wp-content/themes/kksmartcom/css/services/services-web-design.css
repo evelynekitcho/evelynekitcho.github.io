@@ -5,13 +5,13 @@ html[lang=it] .web_design_screen3 .section-heading span::after {
 }
 
 html[lang=it] h1 .blockchain:before {
-  background: url(../../img/decor-3-it.png) no-repeat center;
+  background: url(./img/decor-3-it.png) no-repeat center;
   background-size: contain;
 }
 
 @media (max-width: 992px) {
   html[lang=it] h1 .blockchain:before {
-    background: url(../../img/decor-3-it-mob.png) no-repeat left;
+    background: url(./img/decor-3-it-mob.png) no-repeat left;
     background-size: contain;
     width: 375px;
     height: 163px;
@@ -202,7 +202,7 @@ html[lang=it] h1 .blockchain:after {
   height: 60px;
   position: absolute;
   left: 9px;
-  background: url("../../img/custom.png") no-repeat center;
+  background: url("./img/custom.png") no-repeat center;
   background-size: contain;
   top: -8px;
   opacity: 0;
@@ -448,7 +448,7 @@ html[lang=it] h1 .blockchain:after {
   content: "";
   width: 110%;
   height: 100%;
-  background: url("../../img/services/mobdev1.png") no-repeat center;
+  background: url("./img/services/mobdev1.png") no-repeat center;
   background-size: contain;
   position: absolute;
   left: -4%;
@@ -513,7 +513,7 @@ h1 .blockchain:before {
   top: 50%;
   left: -14%;
   position: absolute;
-  background: url("../../img/services/blockchain.png") no-repeat center;
+  background: url("./img/services/blockchain.png") no-repeat center;
   background-size: contain;
 }
 
@@ -525,7 +525,7 @@ h1 .blockchain:before {
     top: 28%;
     left: -15px;
     position: absolute;
-    background: url("../../img/services/blockchain-mob.png") no-repeat center;
+    background: url("./img/services/blockchain-mob.png") no-repeat center;
     background-size: contain;
   }
 }
@@ -909,7 +909,7 @@ h1 .blockchain:after {
 .decorable.decorable-lime b:after,
 .decorable.decorable-lime strong:after {
   height: 10px;
-  background: url("../../img/awards/line-lime.png") no-repeat center;
+  background: url("./img/awards/line-lime.png") no-repeat center;
   background-size: 100% 100%;
 }
 
@@ -931,7 +931,7 @@ h1 .blockchain:after {
   height: 7px;
   top: 85%;
   left: 0;
-  background: url("../../img/la1.png") no-repeat center;
+  background: url("./img/la1.png") no-repeat center;
   background-size: 100% 100%;
   position: absolute;
 }
@@ -947,14 +947,14 @@ h1 .blockchain:after {
   height: 89%;
   top: 2%;
   left: -5%;
-  background: url("../../img/text-circle.png") no-repeat center;
+  background: url("./img/text-circle.png") no-repeat center;
   background-size: 100% 100%;
   position: absolute;
   z-index: -1;
 }
 
 .decorable strong:after {
-  background: url("../../img/ln2.png") no-repeat center;
+  background: url("./img/ln2.png") no-repeat center;
   background-size: 100% 100%;
 }
 
@@ -965,7 +965,7 @@ h1 .blockchain:after {
   position: absolute;
   left: 0;
   top: 89%;
-  background: url("../../img/services/linedown.png") no-repeat center;
+  background: url("./img/services/linedown.png") no-repeat center;
   background-size: 100% 100%;
 }
 
@@ -1100,7 +1100,7 @@ h1 .blockchain:after {
   height: 100%;
   left: -4%;
   top: 2%;
-  background: url("../../img/services/prod.png") no-repeat center;
+  background: url("./img/services/prod.png") no-repeat center;
   background-size: contain;
   position: absolute;
 }
@@ -1158,7 +1158,7 @@ h1 .blockchain:after {
   content: "";
   width: 100%;
   height: 10px;
-  background: url("../../img/services/underline.png") no-repeat center;
+  background: url("./img/services/underline.png") no-repeat center;
   background-size: 100% 100%;
   position: absolute;
   left: 0;
@@ -1175,7 +1175,7 @@ h1 .blockchain:after {
   content: "";
   width: 100%;
   height: 21px;
-  background: url("../../img/services/ll.png") no-repeat center;
+  background: url("./img/services/ll.png") no-repeat center;
   background-size: 100% 100%;
   position: absolute;
   left: 0;
@@ -1314,7 +1314,7 @@ h1 .blockchain:after {
   position: absolute;
   left: -2%;
   top: 5%;
-  background: url("../../img/services/circle.png") no-repeat center;
+  background: url("./img/services/circle.png") no-repeat center;
   background-size: 100% 100%;
 }
 
@@ -1345,7 +1345,7 @@ h1 .blockchain:after {
   content: "";
   width: 100%;
   height: 10px;
-  background: url("../../img/services/underline.png") no-repeat center;
+  background: url("./img/services/underline.png") no-repeat center;
   background-size: 100% 100%;
   position: absolute;
   left: 0;
@@ -1370,7 +1370,7 @@ h1 .blockchain:after {
 
 .web_design_screen2 .section-heading strong:after,
 .web_design_screen2 .section-heading em:after {
-  background: url("../../img/services/lineup.png") no-repeat center;
+  background: url("./img/services/lineup.png") no-repeat center;
   background-size: 100% 100%;
 }
 
@@ -1509,7 +1509,7 @@ h1 .blockchain:after {
   content: "";
   width: 100%;
   height: 10px;
-  background: url("../../img/services/underline.png") no-repeat center;
+  background: url("./img/services/underline.png") no-repeat center;
   background-size: 100% 100%;
   position: absolute;
   left: 0;
@@ -1518,7 +1518,7 @@ h1 .blockchain:after {
 
 .web_design_screen4 .section-heading b:after,
 .web_design_screen4 .section-heading em:after {
-  background: url("../../img/services/lineup.png") no-repeat center;
+  background: url("./img/services/lineup.png") no-repeat center;
   background-size: 100% 100%;
 }
 
@@ -1527,7 +1527,7 @@ h1 .blockchain:after {
 }
 
 .web_design_screen4 .section-heading strong:after {
-  background: url("../../img/services/linedown.png") no-repeat center;
+  background: url("./img/services/linedown.png") no-repeat center;
   background-size: 100% 100%;
 }
 
@@ -1683,7 +1683,7 @@ h1 .blockchain:after {
 
   .web_design_screen1 .flex-container .left h1 u:after {
     top: 105%;
-    background: url("../../img/services/un.png") no-repeat center;
+    background: url("./img/services/un.png") no-repeat center;
     background-size: 100% 100%;
     width: 170px;
   }
@@ -1725,7 +1725,7 @@ h1 .blockchain:after {
 
 @media (max-width: 992px) {
   .web_design_screen4 .section-heading u::after {
-    background: url("../../img/services/un.png") no-repeat center;
+    background: url("./img/services/un.png") no-repeat center;
     background-size: 100% 100%;
     top: 90%;
   }
@@ -1903,7 +1903,7 @@ h1 .blockchain:after {
 
   .web_design_screen1 .flex-container .left h1 u:after {
     top: 105%;
-    background: url("../../img/services/un.png") no-repeat center;
+    background: url("./img/services/un.png") no-repeat center;
     background-size: 100% 100%;
     width: 170px;
   }
