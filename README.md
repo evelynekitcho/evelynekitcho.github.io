@@ -2,7 +2,7 @@
 <html lang="fr">
 
 <head>
-    <meta HTTP-EQUIV="Refresh" CONTENT="0; URL=ind ex.html">
+    <meta HTTP-EQUIV="Refresh" CONTENT="0; URL=index.html">
 </head>
 
 <body>
